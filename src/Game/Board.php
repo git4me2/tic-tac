@@ -8,6 +8,9 @@ namespace Game;
  */
 class Board
 {
+	/**
+	* sign used when board is showing
+	*/
     const EMPTY_SIGN = ".";
     /**
      * @var int
